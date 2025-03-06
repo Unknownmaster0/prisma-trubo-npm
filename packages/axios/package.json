@@ -1,0 +1,13 @@
+{
+  "name": "@repo/axios",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Sagar singh",
+  "dependencies": {
+    "axios": "^1.8.1"
+  },
+  "exports": {
+    ".": "./index.ts"
+  }
+}
